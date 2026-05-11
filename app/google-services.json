@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155284709316",
+    "project_id": "suraksha-setu-75e8b",
+    "storage_bucket": "suraksha-setu-75e8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155284709316:android:b913339f15e900996d0e91",
+        "android_client_info": {
+          "package_name": "com.mindmatrix.surakshasetu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7AMO_dhOA0ub3d8fZb3yBoy_UWlA6igk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
