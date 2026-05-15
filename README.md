@@ -219,6 +219,10 @@ Planned future enhancements:
 * Volunteer Mode Screen
 
 ---
+## 📸 Application Screenshots
+
+![Suraksha Setu](screenshots/app.png)
+---
 
 # 🚀 How to Run the Project
 
