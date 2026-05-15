@@ -221,7 +221,7 @@ Planned future enhancements:
 ---
 ## 📸 Application Screenshots
 
-![Suraksha Setu](screenshots/app.png)
+![Suraksha Setu](app.png)
 ---
 
 # 🚀 How to Run the Project
