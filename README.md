@@ -18,6 +18,7 @@
 
 Suraksha-Setu is an Android-based emergency response application designed to improve personal safety using AI, sensor automation, emergency communication, and hyper-local alert systems.
 
+
 The application helps users quickly alert trusted contacts during emergency situations using:
 
 - 📳 Shake gesture detection
