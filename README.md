@@ -298,4 +298,3 @@ This project was developed for educational and academic purposes.
   <b>Suraksha-Setu</b><br>
   Building safer communities using Android + AI 🚨
 </p>
-```
