@@ -271,8 +271,9 @@ Connect Android device or emulator and run the project.
 
 ## P G Deepak Chiranjeevi
 
+
 Final Year Engineering Student
-Android + GenAI Developer
+Android + GenAI Developer + Future CEO
 
 ---
 
